@@ -1,1 +1,2 @@
-
+Comentario texto 1 
+O texto relaciona os termos "programação" e "engenharia de software" e evidencia como as engenharias são fundamentadas em rigor técnico e teórico, entretanto, a engenharia de software ainda não apresenta essa rigidez pois a programação não seguiu práticas tão rigorosas. Ao final o autor indica que a engenharia de software, à medida que o software se torna mais integrado às nossas vidas, deverá seguir o mesmo rigor habitual das engenarias, em geral.
