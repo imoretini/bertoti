@@ -14,4 +14,7 @@ Os requisitos não funcionais dizem respeito à qualidade e desempenho da aplica
   * **Segurança**, ou seja, a capacidade do sistema de proteger dados e operações contra acessos indevidos, garantindo confidencialidade, integridade e disponibilidade das informações.
   *  **Manutenibilidade**, ou seja, a facilidade de realizar correções, melhorias e adaptações no sistema sem comprometer sua estabilidade ou desempenho.
 
+## 4. Portabilidade (Java) X Simplicidade (Pyton) 
+
+
 
