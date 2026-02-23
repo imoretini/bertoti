@@ -17,4 +17,17 @@ Os requisitos não funcionais dizem respeito à qualidade e desempenho da aplica
 ## 4. Portabilidade (Java) X Simplicidade (Pyton) 
 
 
+## 5. É possível testar tudo?
+R: Não, pois existem infinitas hipóteses, portanto os códigos devem ser elaborados considerando, sobretudo, seus possíveis testes. 
+int blech (int j) {
+   j=j-1; //deveria ser j=j+1
+   j=j/30000;
+   return j; 
+   } 
+
+1. Quantas entradas mostram o erro?
+R: 4
+2. Quais são? 
+R: 30000, -30000, 29999, -29999.
+
 
