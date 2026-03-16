@@ -37,5 +37,5 @@ Tradeoffs são escolhas em que se ganha algo, mas se perde em outro aspecto. Den
 Um sistema pode ser otimizado para rodar muito rápido, mas isso geralmente exige mais memória ou processamento.
  * **Segurança X Usabilidade**
 Quanto mais seguro um sistema, mais barreiras o usuário enfrenta.
-* **Portabilidade vs. Desempenho**
+* **Portabilidade X Desempenho**
 Linguagens portáveis permitem rodar o mesmo código em diferentes plataformas, mas linguagens nativas, compiladas diretamente para o hardware, sacrificam essa portabilidade para alcançar desempenho máximo.
