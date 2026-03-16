@@ -33,9 +33,9 @@ R: 30000, -30000, 29999, -29999.
 
 ## 6. Listar e explicar 3 exemplos de tradeoffs
 Tradeoffs são escolhas em que se ganha algo, mas se perde em outro aspecto. Dentre elas pode-se destacar:
- * **Desempenho X Consumo
+ * **Desempenho X Consumo**
 Um sistema pode ser otimizado para rodar muito rápido, mas isso geralmente exige mais memória ou processamento.
- * **Segurança X Usabilidade
+ * **Segurança X Usabilidade**
 Quanto mais seguro um sistema, mais barreiras o usuário enfrenta.
-* **Portabilidade vs. Desempenho
+* **Portabilidade vs. Desempenho**
 Linguagens portáveis permitem rodar o mesmo código em diferentes plataformas, mas linguagens nativas, compiladas diretamente para o hardware, sacrificam essa portabilidade para alcançar desempenho máximo.
