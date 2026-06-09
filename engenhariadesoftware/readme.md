@@ -15,7 +15,25 @@ Os requisitos não funcionais dizem respeito à qualidade e desempenho da aplica
   *  **Manutenibilidade**, ou seja, a facilidade de realizar correções, melhorias e adaptações no sistema sem comprometer sua estabilidade ou desempenho.
 
 ## 4. Portabilidade (Java) X Simplicidade (Pyton) 
-Java é conhecido pelo lema “write once, run anywhere”. Isso significa que um programa escrito em Java pode ser executado em diferentes sistemas operacionais sem precisar ser reescrito, contudo, por ser uma linguagem orientada a objetos, apresenta uma complexidade muito maior quando comparada ao Pyton que, em contrapartida, se destaca pela sintaxe clara e bem próxima à linguagem humana. 
+Java é conhecido pelo lema “write once, run anywhere”. Isso significa que um programa escrito em Java pode ser executado em diferentes sistemas operacionais sem precisar ser reescrito. Contudo, por ser uma linguagem orientada a objetos, apresenta uma complexidade muito maior quando comparada ao Python, que, em contrapartida, se destaca pela sintaxe clara e bem próxima à linguagem humana.
+
+Essa diferença ilustra bem o conceito de tradeoffs: escolhas em que se ganha algo, mas se perde em outro aspecto. Na engenharia de software, os principais tradeoffs incluem:
+
+* **Desempenho X Consumo**  
+Um sistema pode ser otimizado para rodar muito rápido, mas isso geralmente exige mais memória ou processamento.
+Exemplo prático: jogos de alta performance consomem grande quantidade de GPU e RAM para entregar gráficos realistas.
+
+* **Segurança X Usabilidade**  
+Quanto mais seguro um sistema, mais barreiras o usuário enfrenta.
+Exemplo prático: autenticação em dois fatores aumenta a segurança, mas exige mais passos do usuário para acessar o sistema.
+
+* **Portabilidade X Desempenho**  
+Linguagens portáveis permitem rodar o mesmo código em diferentes plataformas, mas linguagens nativas, compiladas diretamente para o hardware, sacrificam essa portabilidade para alcançar desempenho máximo.
+Exemplo prático: aplicativos escritos em C++ para sistemas embarcados são extremamente rápidos, mas não podem ser facilmente transportados para outras plataformas sem ajustes.
+
+* Flexibilidade X Manutenção**  
+Quanto mais flexível e aberto um sistema, maior a possibilidade de customização, mas também cresce a dificuldade de manutenção.
+Exemplo prático: sistemas com muitos plugins e extensões (como o WordPress) oferecem grande liberdade, mas podem se tornar complexos de atualizar e manter seguros.
 
 ## 5. É possível testar tudo?
 R: Não, pois existem infinitas hipóteses, portanto os códigos devem ser elaborados considerando, sobretudo, seus possíveis testes. 
@@ -31,11 +49,3 @@ R: 4
 3. Quais são? 
 R: 30000, -30000, 29999, -29999.
 
-## 6. Listar e explicar 3 exemplos de tradeoffs
-Tradeoffs são escolhas em que se ganha algo, mas se perde em outro aspecto. Dentre elas pode-se destacar:
- * **Desempenho X Consumo**
-Um sistema pode ser otimizado para rodar muito rápido, mas isso geralmente exige mais memória ou processamento.
- * **Segurança X Usabilidade**
-Quanto mais seguro um sistema, mais barreiras o usuário enfrenta.
-* **Portabilidade X Desempenho**
-Linguagens portáveis permitem rodar o mesmo código em diferentes plataformas, mas linguagens nativas, compiladas diretamente para o hardware, sacrificam essa portabilidade para alcançar desempenho máximo.
