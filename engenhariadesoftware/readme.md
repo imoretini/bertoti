@@ -31,7 +31,7 @@ Exemplo prático: autenticação em dois fatores aumenta a segurança, mas exige
 Linguagens portáveis permitem rodar o mesmo código em diferentes plataformas, mas linguagens nativas, compiladas diretamente para o hardware, sacrificam essa portabilidade para alcançar desempenho máximo.
 Exemplo prático: aplicativos escritos em C++ para sistemas embarcados são extremamente rápidos, mas não podem ser facilmente transportados para outras plataformas sem ajustes.
 
-* Flexibilidade X Manutenção**  
+* **Flexibilidade X Manutenção**  
 Quanto mais flexível e aberto um sistema, maior a possibilidade de customização, mas também cresce a dificuldade de manutenção.
 Exemplo prático: sistemas com muitos plugins e extensões (como o WordPress) oferecem grande liberdade, mas podem se tornar complexos de atualizar e manter seguros.
 
